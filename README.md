@@ -1,7 +1,7 @@
 # Adare_Rerstaurant
 
-<h2>Who are we?</h2>
+<h2>Proyecto de página web viejo</h2>
 
-<p>Adare is an authentic traditional Irish pub and restaurant in Brooklyn, NYC committed to providing our guests with a clean, warm and inviting, family friendly atmosphere found in local pubs all throughout Ireland.  We hope you come by to visit, eat, and enjoy our music. <br> Adare was established in Feb 2010 by Austin Walker.  After years of playing at other Irish Pubs and Restaurants in Brooklyn, he decided to open his own Irish Pub and Restaurant dedicated to providing locals and visitors with authentic Irish fare, drinks, music, and great service at an affordable price.</p>
+<p>Este fue uno de mis primeros proyectos de página web que hice siguiendo tutoriales de YouTube sobre diseño web, bastante sencillo y fácil, con menos de 100 lineas de código, proyecto ideal para principiantes. <br> Este proyecto lo subo ahora con la intención de compartir con la comunidad algunos de m¿is proyectos antiguos que puedan aportar a cualquiera que se esté metiendo en todo lo que está relacionado a desarrollo web</p>
 
 
