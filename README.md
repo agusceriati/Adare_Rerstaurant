@@ -1,7 +1,14 @@
 # Adare_Rerstaurant
 
-<h2>Proyecto de página web viejo</h2>
+<h2>Adare´s restaurant project</h2>
 
-<p>Este fue uno de mis primeros proyectos de página web que hice siguiendo tutoriales de YouTube sobre diseño web, bastante sencillo y fácil, con menos de 100 lineas de código, proyecto ideal para principiantes. <br> Este proyecto lo subo ahora con la intención de compartir con la comunidad algunos de m¿is proyectos antiguos que puedan aportar a cualquiera que se esté metiendo en todo lo que está relacionado a desarrollo web</p>
+<p>This was my first "website project" following a YouTube video about coding and web design. It is pretty easy to follow with less than a 100 lines of code. Ideal project for a beginner level. <br> I share this project to the community with the main aim to help other people who are starting in this extraordinary world about programming and web design. <br> I hope it can be helpful and I can contribute something in your development as a future programmer</p>
 
+<hr>
 
+<h1>Technologies I used to build this webpage:</h1> <br>
+
+<ul>
+<li>HTML</li>
+<li>CSS</li> 
+</ul>
