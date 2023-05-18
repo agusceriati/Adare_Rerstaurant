@@ -6,7 +6,7 @@
 
 <hr>
 
-<h1>Technologies I used to build this webpage:</h1> <br>
+<h1>Technologies I used to build this website:</h1> <br>
 
 <ul>
 <li>HTML</li>
